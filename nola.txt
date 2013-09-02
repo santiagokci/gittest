@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola
+=======
+hola y chau
+>>>>>>> 5ddedc6c2c41a2801663a9db7bbd0751f1c74446
