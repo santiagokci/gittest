@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 juan
+=======
+juan carlos
+>>>>>>> 7349a5f8c934bb6ffdf16df1a26326aaa7501582
